@@ -1,2 +1,2 @@
 # ArcheryClub
-OOP Task from the IT Talents training camp
+OOP task from the IT Talents training camp
